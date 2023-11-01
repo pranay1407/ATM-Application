@@ -1,5 +1,5 @@
 # ATM-Application
-Mini real time withdrwal money application from ATM.
+Mini real time withdrawal money application from ATM.
 
 Prerequisite: Basic fundamentals of Java, handling exceptions, and oops.
 
